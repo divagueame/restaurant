@@ -1,0 +1,18 @@
+@import "~bootstrap/scss/bootstrap";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    top: 0;
+    overflow: hidden;
+    font-family: Enriqueta;
+}
+
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(194, 135, 135);
+
+}
+
+
+
