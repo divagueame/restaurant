@@ -1,6 +1,4 @@
 import "./style.css";
+import { headLoader } from './header.js'
 
-import { onloadElements } from './page-load'
-
-
-onloadElements();
+headLoader();
